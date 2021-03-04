@@ -72,4 +72,7 @@ sudo diskutil mount disk0s1
 
 Now restart your laptop and everything should be working.
 
+## Quick Fix:
+- If trackpad suddenly stops working just hit print screen button on your keyboard (it works as toggle for trackpad)
+
 Enjoy Big Sur
